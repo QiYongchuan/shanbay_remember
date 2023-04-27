@@ -1,5 +1,5 @@
 # shanbay_remember
-扇贝自动发送今日新词到 telegram
+扇贝自动发送今日新词到 telegram  说明
 
 ## steps
 1. Get your telegram token and chatid (please google how to)
